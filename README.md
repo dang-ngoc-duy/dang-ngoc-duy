@@ -1,4 +1,4 @@
-## Hi 👋, I'm Tano Dang :fox_face:
+## Hi 👋, I'm Justin Dang :fox_face:
 
 ![img](https://preview.redd.it/y99z7p80osa71.png?width=1920&format=png&auto=webp&s=160cab16e1eceb9f62dc4db8c8d58e3eed09fa68)
 
