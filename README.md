@@ -42,15 +42,15 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <h4 align="center">Visitor's Count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{duydangit}/count.svg" alt="duydangit :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{dang-ngoc-duy}/count.svg" alt="dang-ngoc-duy :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duydangit&langs_count=10&theme=tokyonight&layout=compact" alt="duydangit :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dang-ngoc-duy&langs_count=10&theme=tokyonight&layout=compact" alt="dang-ngoc-duy :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=duydangit&show_icons=true&theme=synthwave" alt="duydangit :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dang-ngoc-duy&show_icons=true&theme=synthwave" alt="dang-ngoc-duy :: Profile Stats" /></p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
-⭐️ From [Justin Dang](https://github.com/duydangit)
+⭐️ From [Justin Dang](https://github.com/dang-ngoc-duy)
